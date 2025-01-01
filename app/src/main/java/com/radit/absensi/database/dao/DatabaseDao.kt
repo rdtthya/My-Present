@@ -1,9 +1,9 @@
-package com.present.absensi.database.dao
+package com.radit.absensi.database.dao
 
 import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Insert
-import com.present.absensi.model.ModelDatabase
+import com.radit.absensi.model.ModelDatabase
 import androidx.room.OnConflictStrategy
 import androidx.room.Query
 

@@ -1,4 +1,4 @@
-package com.present.absensi
+package com.radit.absensi
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

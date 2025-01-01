@@ -1,9 +1,9 @@
-package com.present.absensi.utils
+package com.radit.absensi.utils
 
 import android.content.Context
 import android.content.Intent
 import android.content.SharedPreferences
-import com.present.absensi.view.login.LoginActivity
+import com.radit.absensi.view.login.LoginActivity
 
 
 class SessionLogin(var context: Context) {

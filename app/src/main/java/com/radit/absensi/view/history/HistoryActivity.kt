@@ -1,4 +1,4 @@
-package com.present.absensi.view.history
+package com.radit.absensi.view.history
 
 import android.content.DialogInterface
 import android.os.Bundle
@@ -9,10 +9,10 @@ import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.ViewModelProviders
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.present.absensi.R
-import com.present.absensi.model.ModelDatabase
-import com.present.absensi.view.history.HistoryAdapter.HistoryAdapterCallback
-import com.present.absensi.viewmodel.HistoryViewModel
+import com.radit.absensi.R
+import com.radit.absensi.model.ModelDatabase
+import com.radit.absensi.view.history.HistoryAdapter.HistoryAdapterCallback
+import com.radit.absensi.viewmodel.HistoryViewModel
 import kotlinx.android.synthetic.main.activity_history.*
 
 class HistoryActivity : AppCompatActivity(), HistoryAdapterCallback {

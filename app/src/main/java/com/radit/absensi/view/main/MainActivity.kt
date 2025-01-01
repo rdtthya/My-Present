@@ -1,13 +1,13 @@
-package com.present.absensi.view.main
+package com.radit.absensi.view.main
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AlertDialog
 import androidx.appcompat.app.AppCompatActivity
-import com.present.absensi.R
-import com.present.absensi.utils.SessionLogin
-import com.present.absensi.view.absen.AbsenActivity
-import com.present.absensi.view.history.HistoryActivity
+import com.radit.absensi.R
+import com.radit.absensi.utils.SessionLogin
+import com.radit.absensi.view.absen.AbsenActivity
+import com.radit.absensi.view.history.HistoryActivity
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {

@@ -1,11 +1,11 @@
-package com.present.absensi.viewmodel
+package com.radit.absensi.viewmodel
 
 import android.app.Application
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
-import com.present.absensi.database.DatabaseClient.Companion.getInstance
-import com.present.absensi.database.dao.DatabaseDao
-import com.present.absensi.model.ModelDatabase
+import com.radit.absensi.database.DatabaseClient.Companion.getInstance
+import com.radit.absensi.database.dao.DatabaseDao
+import com.radit.absensi.model.ModelDatabase
 import io.reactivex.rxjava3.android.schedulers.AndroidSchedulers
 import io.reactivex.rxjava3.core.Completable
 import io.reactivex.rxjava3.schedulers.Schedulers

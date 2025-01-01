@@ -1,4 +1,4 @@
-package com.present.absensi.view.absen
+package com.radit.absensi.view.absen
 
 import android.Manifest
 import android.app.DatePickerDialog
@@ -21,10 +21,10 @@ import androidx.core.app.ActivityCompat
 import androidx.core.content.FileProvider
 import androidx.exifinterface.media.ExifInterface
 import androidx.lifecycle.ViewModelProvider
-import com.present.absensi.BuildConfig
-import com.present.absensi.R
-import com.present.absensi.utils.BitmapManager.bitmapToBase64
-import com.present.absensi.viewmodel.AbsenViewModel
+import com.radit.absensi.BuildConfig
+import com.radit.absensi.R
+import com.radit.absensi.utils.BitmapManager.bitmapToBase64
+import com.radit.absensi.viewmodel.AbsenViewModel
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.google.android.gms.location.LocationServices

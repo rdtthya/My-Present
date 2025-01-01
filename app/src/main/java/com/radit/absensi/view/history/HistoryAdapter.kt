@@ -1,4 +1,4 @@
-package com.present.absensi.view.history
+package com.radit.absensi.view.history
 
 import android.content.Context
 import android.content.res.ColorStateList
@@ -9,9 +9,9 @@ import android.view.ViewGroup
 import android.widget.TextView
 import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
-import com.present.absensi.R
-import com.present.absensi.model.ModelDatabase
-import com.present.absensi.utils.BitmapManager.base64ToBitmap
+import com.radit.absensi.R
+import com.radit.absensi.model.ModelDatabase
+import com.radit.absensi.utils.BitmapManager.base64ToBitmap
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.google.android.material.imageview.ShapeableImageView

@@ -1,4 +1,4 @@
-package com.present.absensi.view.login
+package com.radit.absensi.view.login
 
 import android.Manifest
 import android.content.Intent
@@ -7,9 +7,9 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
-import com.present.absensi.R
-import com.present.absensi.utils.SessionLogin
-import com.present.absensi.view.main.MainActivity
+import com.radit.absensi.R
+import com.radit.absensi.utils.SessionLogin
+import com.radit.absensi.view.main.MainActivity
 import kotlinx.android.synthetic.main.activity_login.*
 
 class LoginActivity : AppCompatActivity() {

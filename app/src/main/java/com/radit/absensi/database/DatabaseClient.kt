@@ -1,4 +1,4 @@
-package com.present.absensi.database
+package com.radit.absensi.database
 
 import android.content.Context
 import androidx.room.Room

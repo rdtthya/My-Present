@@ -1,4 +1,4 @@
-package com.present.absensi.model
+package com.radit.absensi.model
 
 import androidx.room.PrimaryKey
 import androidx.room.ColumnInfo
