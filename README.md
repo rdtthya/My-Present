@@ -6,7 +6,7 @@ Anggota Kelompok :
 
 ![fitur](https://github.com/user-attachments/assets/f5f419f7-b425-4bcb-9d42-fc27ca5795cd)
 
-Video Demo Aplikasi :
+Video Pitch Deck :
 https://www.youtube.com/@radithya78
 
 Link Google Play Store :
