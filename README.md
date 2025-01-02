@@ -4,7 +4,7 @@ Anggota Kelompok :
 - Radithya Dwi Santoso 1227050108 
 - Sendi Ahmad Rafiudin 1227050121
 
-![fitur](https://github.com/user-attachments/assets/f5f419f7-b425-4bcb-9d42-fc27ca5795cd)
+![fitur](https://github.com/user-attachments/assets/f402d478-6fbb-4742-b0cf-161aac13effc)
 
 Video Pitch Deck :
 https://www.youtube.com/@radithya78
